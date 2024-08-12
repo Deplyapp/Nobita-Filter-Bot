@@ -83,7 +83,7 @@ async def pm_text(bot, message):
     if content.startswith("/") or content.startswith("#"): return  # ignore commands and hashtags
     if user_id in ADMINS: return # ignore admins
     await message.reply_text(
-         text="<b>Yᴏᴜʀ ᴍᴇssᴀɢᴇ ʜᴀs ʙᴇᴇɴ sᴇɴᴛ ᴛᴏ ᴍʏ ᴍᴏᴅᴇʀᴀᴛᴏʀs !<\b>\n\n ⚠️»NᴏTΣ;\n\n◑ ʏᴏᴜ ᴄᴀɴɴᴏᴛ ʀᴇQᴜᴇꜱᴛ ᴍᴏᴠɪᴇꜱ ɪɴ ᴘᴍ.
+         text="<b>Yᴏᴜʀ ᴍᴇssᴀɢᴇ ʜᴀs ʙᴇᴇɴ sᴇɴᴛ ᴛᴏ ᴍʏ ᴍᴏᴅᴇʀᴀᴛᴏʀs !<\b>\n\n⚠️»NᴏTΣ;\n\n◑ ʏᴏᴜ ᴄᴀɴɴᴏᴛ ʀᴇQᴜᴇꜱᴛ ᴍᴏᴠɪᴇꜱ ɪɴ ᴘᴍ.
 ◑ ɪꜰ ɪᴛ ɪꜱ ᴀ ɪᴍᴘᴏʀᴛᴀɴᴛ ᴍᴇꜱꜱᴀɢᴇ ɪᴛ ɪꜱ ʀᴇᴘᴏʀᴛɪɴɢ ᴛᴏ ᴍʏ ᴍᴏᴅᴇʀᴀᴛᴏʀs.",   
          reply_markup=InlineKeyboardMarkup([[InlineKeyboardButton("📝  ʀᴇǫᴜᴇsᴛ ʜᴇʀᴇ​ ", url=f"https://telegram.me/movie_request_pr")]]), disable_web_page_preview=True
     )
