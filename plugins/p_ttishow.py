@@ -38,8 +38,8 @@ async def save_group(bot, message):
             await bot.leave_chat(message.chat.id)
             return
         buttons = [[
-                    InlineKeyboardButton('🥷 ʜᴇʟᴘ 🥷', url='https://telegram.me/CodeXSupport'),
-                    InlineKeyboardButton('♻️ ᴜᴘᴅᴀᴛᴇꜱ ♻️', url='https://telegram.me/RahulReviewsYT')
+                    InlineKeyboardButton('🥷 ʜᴇʟᴘ 🥷', url='https://telegram.me/kaifsarkar53'),
+                    InlineKeyboardButton('♻️ ᴜᴘᴅᴀᴛᴇꜱ ♻️', url='https://telegram.me/botnestsupport')
                  ]]
         reply_markup=InlineKeyboardMarkup(buttons)
         await message.reply_text(
