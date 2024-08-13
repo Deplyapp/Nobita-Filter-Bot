@@ -70,8 +70,8 @@ class script(object):
 
 𝐂𝐨𝐧𝐭𝐚𝐜𝐭 𝐌𝐞 𝐅𝐨𝐫 𝐊𝐧𝐨𝐰 𝐀𝐛𝐨𝐮𝐭 𝐓𝐡𝐞 𝐏𝐚𝐲𝐦𝐞𝐧𝐭 𝐈𝐧𝐟𝐨
 
-<b>ᴄʟɪᴄᴋ ʜᴇʀᴇ - <a href='https://telegram.me/CodeXBro'>ʙᴏss</a>
-ᴄʟɪᴄᴋ ʜᴇʀᴇ - <a href='https://telegram.me/CodeXBro'>ʙᴏss</a></b>"""
+<b>ᴄʟɪᴄᴋ ʜᴇʀᴇ - <a href='https://telegram.me/kaifsarkar53'>ʙᴏss</a>
+ᴄʟɪᴄᴋ ʜᴇʀᴇ - <a href='https://telegram.me/kaifsarkar53'>ʙᴏss</a></b>"""
 
     AUTOFILTER_TXT = """ʜᴇʟᴘ: <b>ᴀᴜᴛᴏ ꜰɪʟᴛᴇʀ</b>
 <b>ɴᴏᴛᴇ: Fɪʟᴇ Iɴᴅᴇx</b>
@@ -178,7 +178,7 @@ Cᴏᴍᴍᴀɴᴅs Aɴᴅ Usᴀɢᴇ:
 
 𝟹) ɴᴏᴛ ᴀᴠᴀɪʟᴀʙʟᴇ ɪɴ ᴅᴀᴛᴀʙᴀꜱᴇ
 
-<b><a href=https://telegram.me/CodeXBro>~ ʀᴇǫᴜᴇ𝗌ᴛ ᴛᴏ ᴏᴡɴᴇʀ</a></b>
+<b><a href=https://telegram.me/kaifsarkar53>~ ʀᴇǫᴜᴇ𝗌ᴛ ᴛᴏ ᴏᴡɴᴇʀ</a></b>
 """
 
     TOP_ALRT_MSG = """ꜱᴇᴀʀᴄʜɪɴɢ  ɪɴ  ᴅᴀᴛᴀʙᴀꜱᴇ..."""
@@ -198,7 +198,7 @@ Cᴏᴍᴍᴀɴᴅs Aɴᴅ Usᴀɢᴇ:
 ☎️ ʀᴇᴀᴅ ɢʀᴏᴜᴘ ʀᴜʟᴇs ᴛᴏ ᴋɴᴏᴡ ᴍᴏʀᴇ...</b>"""
 
     SHORTLINK_INFO = """
-<b>──────「 <a href='https://telegram.me/RahulReviewsYT'>ᴇᴀʀɴ ᴍᴏɴᴇʏ</a> 」──────
+<b>──────「 <a href='https://telegram.me/kaifsarkar53'>ᴇᴀʀɴ ᴍᴏɴᴇʏ</a> 」──────
 
 ➥ ɴᴏᴡ ʏᴏᴜ ᴄᴀɴ ᴀʟsᴏ ᴇᴀʀɴ ʟᴏᴛs ᴏꜰ ᴍᴏɴᴇʏ ꜰʀᴏᴍ ᴛʜɪꜱ ʙᴏᴛ.
 
@@ -233,7 +233,7 @@ Tɪᴘ: Sᴇʟᴇᴄᴛ "Lᴀɴɢᴜᴀɢᴇs" ᴏʀ "Sᴇᴀsᴏɴs" Bᴜᴛᴛ
 
 ☆ ᴄᴏɴᴛɪɴᴜᴇ ᴛʜɪs ᴍᴇᴛʜᴏᴅ ᴛᴏ ɢᴇᴛᴛɪɴɢ ʏᴏᴜ ꜰɪʟᴇ
 
-❤️‍🔥 ᴘᴏᴡᴇʀᴇᴅ ʙʏ @RahulReviewsYT
+❤️‍🔥 ᴘᴏᴡᴇʀᴇᴅ ʙʏ @kaifsarkar53
 """
 
     NORSLTS = """
